@@ -1,5 +1,0 @@
-# Gopkg.toml
-
-[[constraint]]
-  branch = "master"
-  name = "github.com/joho/godotenv"
