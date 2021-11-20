@@ -1,3 +1,5 @@
-module github.com/atrox/env
+module go.atrox.dev/env
 
-require github.com/joho/godotenv v1.3.0
+go 1.17
+
+require github.com/joho/godotenv v1.4.0
